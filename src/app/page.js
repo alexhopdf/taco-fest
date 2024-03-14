@@ -27,7 +27,7 @@ export default function Home() {
         <div className="pb-16">
           <h1 className="text-white text-3xl">
             {" "}
-            Aqui va el video pero no ahorita no estoy seguro de como hacerlo xd{" "}
+            Aqui va el video pero no ahorita no estoy segura de como hacerlo xd{" "}
           </h1>
         </div>
 
